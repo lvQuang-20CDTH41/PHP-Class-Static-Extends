@@ -1,4 +1,5 @@
 <?php
+//TH 5.9. Sử dụng lớp trừu tượng (abstract)
 abstract class Tinhtoan
 {
     public $a, $b;

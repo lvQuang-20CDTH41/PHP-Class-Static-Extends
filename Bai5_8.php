@@ -1,5 +1,5 @@
 <?php
-// TH 5.7. Thực hiện bài TH 5.5 bằng thuộc tính và phương thức tĩnh
+//TH 5.8. Thực hiện bài TH 5.6¬ bằng thuộc tính và phương thức tĩnh
 class Hinhchunhat
 {
     private static $rong;
